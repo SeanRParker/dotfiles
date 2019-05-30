@@ -10,6 +10,7 @@ brew cask install spectacle
 brew install postgres
 
 # fira code
+brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 
 # iterm2
