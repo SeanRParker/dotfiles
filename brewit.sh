@@ -3,7 +3,7 @@
 # Install homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-#spectacle
+# spectacle
 brew cask install spectacle
 
 # postgres
@@ -15,6 +15,9 @@ brew cask install font-fira-code
 
 # iterm2
 brew cask install iterm2
+
+# git bash-completion
+brew install git bash-completion
 
 # vscode
 brew cask install visual-studio-code
